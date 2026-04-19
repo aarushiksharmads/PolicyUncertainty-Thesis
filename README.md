@@ -22,6 +22,9 @@ Models compared:
 - LightGBM: Gradient boosted trees with SHAP explainability
 
 ---
+## 📁 Repository Structure
+
+```
 epu-thesis/
 ├── data/
 │   ├── raw/                         # Original source files
@@ -44,11 +47,13 @@ epu-thesis/
 │   ├── 02_statistical_tests.ipynb            # Stationarity, Hurst, TSay tests
 │   ├── 03_exploratory_data_analysis.ipynb    # Visualization & insights
 │   ├── 04_arimax_sarima_modeling.ipynb       # Classical time-series models
-│   └── 05_lightgbm_hybrid.ipynb             # ML-based hybrid forecasting
+│   └── 05_lightgbm_hybrid.ipynb              # ML-based hybrid forecasting
 │
 ├── outputs/                         # Saved plots, model outputs, figures
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
+```
+
 
 ---
 
