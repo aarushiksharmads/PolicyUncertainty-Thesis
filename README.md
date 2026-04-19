@@ -109,7 +109,7 @@ Always run 01 first — it creates df_transformed.csv needed by all other notebo
 ## Setup
 
 `ash
-git clone https://github.com/YOUR_USERNAME/epu-thesis.git
+git clone https://github.com/aarushiksharmads/PolicyUncertainty-Thesis.git
 cd epu-thesis
 pip install -r requirements.txt
 jupyter notebook
